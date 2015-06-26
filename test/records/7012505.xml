@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<record>
+  <leader>00000cam^a22001817i^4500</leader>
+  <controlfield tag="001">007012503</controlfield>
+  <controlfield tag="003">FI-MELINDA</controlfield>
+  <controlfield tag="005">20150428151234.0</controlfield>
+  <controlfield tag="008">150428s1989^^^^sw^|||||||||||||||||swe||</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">91-38-61858-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="z">(FI-MELINDA)007012501</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="z">(FI-MELINDA)007012502</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(FI-MELINDA)007012503</subfield>
+  </datafield>
+  <datafield tag="041" ind1="0" ind2=" ">
+    <subfield code="a">swe</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">658.012.2</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Andberg, Leif.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Marknadsplanen :</subfield>
+    <subfield code="b">praktisk handledning för marknadsplanerare /</subfield>
+    <subfield code="c">Leif Andberg, Bengt Eliasson.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Malmö :</subfield>
+    <subfield code="b">Liber,</subfield>
+    <subfield code="c">1989.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">112 s. :</subfield>
+    <subfield code="b">ill., diagr.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Teksti</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ei välittävää laitetta</subfield>
+  </datafield>
+  <datafield tag="583" ind1=" " ind2=" ">
+    <subfield code="a">MERGED FROM (FI-MELINDA)007012501 + (FI-MELINDA)007012504</subfield>
+    <subfield code="5">MELINDA</subfield>
+    <subfield code="c">2015-04-28T14:20:40+03:00</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">TEST &lt;TAG&gt;</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">TEST</subfield>
+    <subfield code="c">Tue Apr 28 2015 12:22:13 GMT+0300 (EEST)</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">TEST &lt;TAG&gt;</subfield>
+  </datafield>
+  <datafield tag="599" ind1=" " ind2=" ">
+    <subfield code="a">TEST &lt;TAG&gt;</subfield>
+  </datafield>
+  
+</record>
