@@ -29,12 +29,14 @@
   },
   "dependencies": {
     "colors": "^1.0.3",
+    "moment": "^2.10.6",
     "q": "^1.3.0",
+    "winston": "^1.0.1",
     "yargs": "^3.8.0"
   },
   "preferGlobal": "true",
   "bin": {
-  	"melinda-merge": "bin/merge-cli.js",
-  	"melinda-split": "bin/split-cli.js"
+    "melinda-merge": "bin/merge-cli.js",
+    "melinda-split": "bin/split-cli.js"
   }
 }
