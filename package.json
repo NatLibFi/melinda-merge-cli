@@ -15,6 +15,9 @@
     "type": "git",
     "url": "git@github.com:natlibfi/melinda-merge-cli.git"
   },
+  "author": {
+    "name": "The National Library of Finland"
+  },
   "license": "AGPL-3.0+",
   "main": "index.js",
   "directories": {
