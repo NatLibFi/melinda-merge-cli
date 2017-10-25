@@ -1,1 +1,0 @@
-../marc-merge-viewer/public/scripts/merge_function_config.js

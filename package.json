@@ -1,7 +1,21 @@
 {
-  "name": "melinda-merge-cli",
+  "name": "@natlibfi/melinda-merge-cli",
   "version": "1.0.0",
-  "description": "A library and a command line tool for merging records in Melinda.",
+  "description": "A library and a command line tool for merging records in Melinda",
+  "keywords": [
+    "Melinda",
+    "deduplication",
+    "merge"
+  ],
+  "homepage": "https://github.com/natlibfi/melinda-merge-cli",
+  "bugs": {
+    "url": "https://github.com/natlibfi/melinda-merge-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:natlibfi/melinda-merge-cli.git"
+  },
+  "license": "AGPL-3.0+",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -9,13 +23,6 @@
   "scripts": {
     "test": "grunt default"
   },
-  "keywords": [
-    "Melinda",
-    "deduplication",
-    "merge"
-  ],
-  "author": "Pasi Tuominen <pasi.e.tuominen@helsinki.fi>",
-  "license": "ISC",
   "devDependencies": {
     "chai": "^2.3.0",
     "grunt": "^0.4.5",
@@ -25,7 +32,7 @@
     "istanbul": "^0.3.13",
     "jshint": "^2.7.0",
     "mocha": "^2.2.4",
-    "melinda-api-mock": "^1.0.0"
+    "@natlibfi/melinda-api-mock": "^1.0.0"
   },
   "dependencies": {
     "colors": "^1.0.3",
